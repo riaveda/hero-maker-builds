@@ -2,5 +2,6 @@
   "versionCode": 8,
   "versionName": "0.5.0",
   "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.5.0/hero-maker-v050.apk",
-  "notes": "주인공이 걷는다 — 울타리에 막히고 입구로 나간다"
+  "notes": "주인공이 걷는다 — 울타리에 막히고 입구로 나간다",
+  "minRequired": 0
 }
