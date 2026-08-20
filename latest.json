@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "0.5.0",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.5.0/hero-maker-v050.apk",
-  "notes": "주인공이 걷는다 — 울타리에 막히고 입구로 나간다",
+  "versionCode": 9,
+  "versionName": "0.6.0",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.6.0/hero-maker-v060.apk",
+  "notes": "켤 때 무슨 일이 일어나는지 보인다 — 부트·로그인 화면",
   "minRequired": 0
 }
