@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "0.8.21",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.21/hero-maker-v0821.apk",
-  "notes": "가입 화면이 따로 생겼다 · 몬스터가 걷고 HP 바가 붙었다 · 타격 반응",
+  "versionCode": 42,
+  "versionName": "0.8.22",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.22/hero-maker-v0822.apk",
+  "notes": "서버 주소를 앱에서 정한다 — 어느 폰이든 붙는다 · 가입 화면 · 몬스터 걸음과 HP 바",
   "minRequired": 0
 }
