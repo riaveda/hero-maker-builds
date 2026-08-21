@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "0.8.27",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.27/hero-maker-v0827.apk",
-  "notes": "가입이 된다 — Caddy 로 바로 붙는다 · 화면이 해상도에 안 깨진다 · 주인공 이름에 한글이 들어간다",
+  "versionCode": 48,
+  "versionName": "0.8.28",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.28/hero-maker-v0828.apk",
+  "notes": "걸음이 다시 부드럽다 — 서버는 목적지만 주고 앱이 걷는다 · 맞을 때 화면이 안 튄다",
   "minRequired": 0
 }
