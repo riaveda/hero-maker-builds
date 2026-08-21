@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "0.8.30",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.30/hero-maker-v0830.apk",
-  "notes": "주소를 하나로 되돌린다 — 포트를 더 열지 않는다",
+  "versionCode": 51,
+  "versionName": "0.8.31",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.31/hero-maker-v0831.apk",
+  "notes": "저장된 서버 주소가 옛 것(:8444)으로 굳어 있던 것을 고치고, 로그인을 유지한다",
   "minRequired": 0
 }
