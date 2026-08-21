@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "0.7.1",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.7.1/hero-maker-v071.apk",
-  "notes": "단추가 눌린다 — EventSystem 과 입력칸 여백을 잡았다",
+  "versionCode": 12,
+  "versionName": "0.7.2",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.7.2/hero-maker-v072.apk",
+  "notes": "새 판을 알아서 받는다 — 다 받으면 [설치] 가 켜진다",
   "minRequired": 0
 }
