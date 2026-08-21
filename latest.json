@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "0.7.3",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.7.3/hero-maker-v073.apk",
-  "notes": "이 판부터 자동 갱신이 제대로 돈다",
+  "versionCode": 15,
+  "versionName": "0.7.5",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.7.5/hero-maker-v075.apk",
+  "notes": "단추가 정말로 눌린다 — 입력 모듈을 바로잡았다",
   "minRequired": 0
 }
