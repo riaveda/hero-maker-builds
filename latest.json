@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "0.8.4",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.4/hero-maker-v084.apk",
-  "notes": "단추에 누른 느낌을 넣고, 추적 단추를 제대로 만들었다",
+  "versionCode": 25,
+  "versionName": "0.8.5",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.5/hero-maker-v085.apk",
+  "notes": "바닥이 온전해지고, 문을 열면 안이 보인다",
   "minRequired": 0
 }
