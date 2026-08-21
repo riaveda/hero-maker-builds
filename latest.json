@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "0.7.0",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.7.0/hero-maker-v070.apk",
-  "notes": "앱 버전업 없이 콘텐츠를 간다 — 그림이 앱 밖으로",
+  "versionCode": 11,
+  "versionName": "0.7.1",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.7.1/hero-maker-v071.apk",
+  "notes": "단추가 눌린다 — EventSystem 과 입력칸 여백을 잡았다",
   "minRequired": 0
 }
