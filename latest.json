@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "0.8.7",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.7/hero-maker-v087.apk",
-  "notes": "진행 막대가 진짜로 진행을 보여준다. 멀쩡한 화면에 뜨던 INPUT BROKEN 띠를 없앴다",
+  "versionCode": 28,
+  "versionName": "0.8.8",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.8/hero-maker-v088.apk",
+  "notes": "바닥이 화면을 다 덮는다. 울타리도 제자리로 왔다",
   "minRequired": 0
 }
