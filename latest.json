@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "0.8.15",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.15/hero-maker-v0815.apk",
-  "notes": "울타리 그림이 이번엔 진짜로 들어갔다",
+  "versionCode": 36,
+  "versionName": "0.8.16",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.16/hero-maker-v0816.apk",
+  "notes": "입구를 넓혔다 — 네 곳 모두 한 칸씩 더",
   "minRequired": 0
 }
