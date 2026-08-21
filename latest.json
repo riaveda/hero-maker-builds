@@ -1,7 +1,7 @@
 {
-  "versionCode": 49,
-  "versionName": "0.8.29",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.29/hero-maker-v0829.apk",
-  "notes": "공격·피격 모션이 이벤트로 한 번씩 제대로 논다 · 걸음은 앱이 굴린다",
+  "versionCode": 50,
+  "versionName": "0.8.30",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.30/hero-maker-v0830.apk",
+  "notes": "주소를 하나로 되돌린다 — 포트를 더 열지 않는다",
   "minRequired": 0
 }
