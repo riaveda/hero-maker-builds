@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "0.8.0",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.0/hero-maker-v080.apk",
-  "notes": "흰 배경·방향·걷는 모습·그림자·가림 반투명을 고치고 문을 넣었다",
+  "versionCode": 21,
+  "versionName": "0.8.1",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.1/hero-maker-v081.apk",
+  "notes": "한 방향만 미끄러지던 것을 고쳤다. 몬스터·NPC 는 안 비친다",
   "minRequired": 0
 }
