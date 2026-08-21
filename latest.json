@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "0.8.8",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.8/hero-maker-v088.apk",
-  "notes": "바닥이 화면을 다 덮는다. 울타리도 제자리로 왔다",
+  "versionCode": 29,
+  "versionName": "0.8.9",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.9/hero-maker-v089.apk",
+  "notes": "주인공과 진짜로 겹칠 때만 반투명해진다",
   "minRequired": 0
 }
