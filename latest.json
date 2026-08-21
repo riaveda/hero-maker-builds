@@ -1,7 +1,7 @@
 {
-  "versionCode": 48,
-  "versionName": "0.8.28",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.28/hero-maker-v0828.apk",
-  "notes": "걸음이 다시 부드럽다 — 서버는 목적지만 주고 앱이 걷는다 · 맞을 때 화면이 안 튄다",
+  "versionCode": 49,
+  "versionName": "0.8.29",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.29/hero-maker-v0829.apk",
+  "notes": "공격·피격 모션이 이벤트로 한 번씩 제대로 논다 · 걸음은 앱이 굴린다",
   "minRequired": 0
 }
