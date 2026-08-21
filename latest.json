@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "0.8.10",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.10/hero-maker-v0810.apk",
-  "notes": "울타리가 칸별 조각이 됐다 — 이제 막고, 집과 앞뒤가 섞인다",
+  "versionCode": 31,
+  "versionName": "0.8.11",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.11/hero-maker-v0811.apk",
+  "notes": "입구가 동서남북 넷이 됐다",
   "minRequired": 0
 }
