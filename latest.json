@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "0.8.16",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.16/hero-maker-v0816.apk",
-  "notes": "입구를 넓혔다 — 네 곳 모두 한 칸씩 더",
+  "versionCode": 41,
+  "versionName": "0.8.21",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.21/hero-maker-v0821.apk",
+  "notes": "가입 화면이 따로 생겼다 · 몬스터가 걷고 HP 바가 붙었다 · 타격 반응",
   "minRequired": 0
 }
