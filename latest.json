@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "0.6.0",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.6.0/hero-maker-v060.apk",
-  "notes": "켤 때 무슨 일이 일어나는지 보인다 — 부트·로그인 화면",
+  "versionCode": 10,
+  "versionName": "0.7.0",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.7.0/hero-maker-v070.apk",
+  "notes": "앱 버전업 없이 콘텐츠를 간다 — 그림이 앱 밖으로",
   "minRequired": 0
 }
