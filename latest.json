@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "0.8.22",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.22/hero-maker-v0822.apk",
-  "notes": "서버 주소를 앱에서 정한다 — 어느 폰이든 붙는다 · 가입 화면 · 몬스터 걸음과 HP 바",
+  "versionCode": 45,
+  "versionName": "0.8.25",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.25/hero-maker-v0825.apk",
+  "notes": "어느 폰에서든 서버에 붙는다 — 평문 HTTP 차단이 원인이었다",
   "minRequired": 0
 }
