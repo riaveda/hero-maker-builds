@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "0.8.12",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.12/hero-maker-v0812.apk",
-  "notes": "울타리가 육각형이 됐다 — 위아래가 대각선",
+  "versionCode": 33,
+  "versionName": "0.8.13",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.13/hero-maker-v0813.apk",
+  "notes": "입구가 화면 위·아래·좌·우 넷으로 옮겨졌다",
   "minRequired": 0
 }
