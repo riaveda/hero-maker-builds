@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "0.7.6",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.7.6/hero-maker-v076.apk",
-  "notes": "세계가 실제로 뜬다 — 그림이 안 붙던 원인 셋과 입력 예외를 고쳤다",
+  "versionCode": 17,
+  "versionName": "0.7.7",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.7.7/hero-maker-v077.apk",
+  "notes": "방향·걷는 모습·그림자·가림 반투명을 고치고, 문을 넣었다",
   "minRequired": 0
 }
