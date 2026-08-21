@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "0.8.3",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.3/hero-maker-v083.apk",
-  "notes": "깨진 그림·크기 어긋남을 고쳤다. 집을 누르면 화면에 무엇을 맞췄는지 뜬다",
+  "versionCode": 24,
+  "versionName": "0.8.4",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.4/hero-maker-v084.apk",
+  "notes": "단추에 누른 느낌을 넣고, 추적 단추를 제대로 만들었다",
   "minRequired": 0
 }
