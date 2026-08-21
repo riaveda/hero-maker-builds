@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "0.8.25",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.25/hero-maker-v0825.apk",
-  "notes": "어느 폰에서든 서버에 붙는다 — 평문 HTTP 차단이 원인이었다",
+  "versionCode": 46,
+  "versionName": "0.8.26",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.26/hero-maker-v0826.apk",
+  "notes": "HTTPS 로만 붙는다 — 나스의 Let's Encrypt 를 그대로 쓴다",
   "minRequired": 0
 }
