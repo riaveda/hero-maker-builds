@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "0.8.2",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.2/hero-maker-v082.apk",
-  "notes": "걷는 발이 몸과 맞는다. 집을 누르면 열리고 닫힌다",
+  "versionCode": 23,
+  "versionName": "0.8.3",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.3/hero-maker-v083.apk",
+  "notes": "깨진 그림·크기 어긋남을 고쳤다. 집을 누르면 화면에 무엇을 맞췄는지 뜬다",
   "minRequired": 0
 }
