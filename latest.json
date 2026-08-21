@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "0.7.5",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.7.5/hero-maker-v075.apk",
-  "notes": "단추가 정말로 눌린다 — 입력 모듈을 바로잡았다",
+  "versionCode": 16,
+  "versionName": "0.7.6",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.7.6/hero-maker-v076.apk",
+  "notes": "세계가 실제로 뜬다 — 그림이 안 붙던 원인 셋과 입력 예외를 고쳤다",
   "minRequired": 0
 }
