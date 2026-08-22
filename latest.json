@@ -1,7 +1,7 @@
 {
-  "versionCode": 61,
-  "versionName": "0.8.41",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.41/hero-maker-v0841.apk",
-  "notes": "위아래 이동 방향이 맞는다 — 서버는 격자, 그림은 화면. 45도 어긋나 있었다",
+  "versionCode": 62,
+  "versionName": "0.8.42",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.42/hero-maker-v0842.apk",
+  "notes": "우상단에 소지금 · 시작할 때 순간이동하지 않는다",
   "minRequired": 0
 }
