@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
-  "versionName": "0.8.34",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.34/hero-maker-v0834.apk",
-  "notes": "칼과 피격 모션을 원본 속도로 굽는다 · 히트스톱 · 몬스터 미끄러짐",
+  "versionCode": 56,
+  "versionName": "0.8.36",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.36/hero-maker-v0836.apk",
+  "notes": "칼이 끝까지 내려온다 · 타격 순간에 맞춰 몬스터가 크게 젖혀진다 · 60fps",
   "minRequired": 0
 }
