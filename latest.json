@@ -1,7 +1,7 @@
 {
-  "versionCode": 70,
-  "versionName": "0.8.50",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.50/hero-maker-v0850.apk",
-  "notes": "텍스처를 ASTC 로 — 번들 45.4MB → 40.6MB",
+  "versionCode": 76,
+  "versionName": "0.8.56",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.56/hero-maker-v0856.apk",
+  "notes": "쉴 때 서서 쉰다 · 사냥은 몬스터를 향한다 · 켜는 시간 22초 → 12초",
   "minRequired": 0
 }
