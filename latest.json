@@ -1,7 +1,7 @@
 {
-  "versionCode": 57,
-  "versionName": "0.8.37",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.37/hero-maker-v0837.apk",
-  "notes": "스윙을 0.7초 → 0.35초로. 21장을 한 장도 안 버리고 내는 가장 빠른 속도",
+  "versionCode": 58,
+  "versionName": "0.8.38",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.38/hero-maker-v0838.apk",
+  "notes": "싸울 때 서로 마주본다 · 앱이 서버가 준 방향을 쓴다",
   "minRequired": 0
 }
