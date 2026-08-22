@@ -1,7 +1,7 @@
 {
-  "versionCode": 66,
-  "versionName": "0.8.46",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.46/hero-maker-v0846.apk",
-  "notes": "몬스터를 9칸씩 떼어 1대1이 기본이 되게 · 크기는 art-sizes.json 한 곳에서",
+  "versionCode": 67,
+  "versionName": "0.8.47",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.47/hero-maker-v0847.apk",
+  "notes": "야영지 넷 · 고블린 16마리 · 집에 돌아가면 회복",
   "minRequired": 0
 }
