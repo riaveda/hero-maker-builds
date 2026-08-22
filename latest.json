@@ -1,7 +1,7 @@
 {
-  "versionCode": 63,
-  "versionName": "0.8.43",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.43/hero-maker-v0843.apk",
-  "notes": "몬스터를 잡으면 돈이 나온다 · 붙었다 돌아섰다 하지 않는다",
+  "versionCode": 65,
+  "versionName": "0.8.45",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.45/hero-maker-v0845.apk",
+  "notes": "고블린 절반 크기 · 사냥터를 기획대로 25칸에 · 야영지 둘 여덟 마리 · 리스폰 2분",
   "minRequired": 0
 }
