@@ -1,7 +1,7 @@
 {
-  "versionCode": 56,
-  "versionName": "0.8.36",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.36/hero-maker-v0836.apk",
-  "notes": "칼이 끝까지 내려온다 · 타격 순간에 맞춰 몬스터가 크게 젖혀진다 · 60fps",
+  "versionCode": 57,
+  "versionName": "0.8.37",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.37/hero-maker-v0837.apk",
+  "notes": "스윙을 0.7초 → 0.35초로. 21장을 한 장도 안 버리고 내는 가장 빠른 속도",
   "minRequired": 0
 }
