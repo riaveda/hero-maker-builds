@@ -1,7 +1,7 @@
 {
-  "versionCode": 62,
-  "versionName": "0.8.42",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.42/hero-maker-v0842.apk",
-  "notes": "우상단에 소지금 · 시작할 때 순간이동하지 않는다",
+  "versionCode": 63,
+  "versionName": "0.8.43",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.43/hero-maker-v0843.apk",
+  "notes": "몬스터를 잡으면 돈이 나온다 · 붙었다 돌아섰다 하지 않는다",
   "minRequired": 0
 }
