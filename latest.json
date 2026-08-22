@@ -1,7 +1,7 @@
 {
-  "versionCode": 65,
-  "versionName": "0.8.45",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.45/hero-maker-v0845.apk",
-  "notes": "고블린 절반 크기 · 사냥터를 기획대로 25칸에 · 야영지 둘 여덟 마리 · 리스폰 2분",
+  "versionCode": 66,
+  "versionName": "0.8.46",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.46/hero-maker-v0846.apk",
+  "notes": "몬스터를 9칸씩 떼어 1대1이 기본이 되게 · 크기는 art-sizes.json 한 곳에서",
   "minRequired": 0
 }
