@@ -1,7 +1,7 @@
 {
-  "versionCode": 59,
-  "versionName": "0.8.39",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.39/hero-maker-v0839.apk",
-  "notes": "걸을 때 좌우로 흔들리지 않는다 — 방향의 주인을 서버 하나로",
+  "versionCode": 60,
+  "versionName": "0.8.40",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.40/hero-maker-v0840.apk",
+  "notes": "처음 켤 때 순간이동하지 않는다 — 잠든 세계의 시계를 다시 맞추고, 스냅샷을 기다린 뒤 그린다",
   "minRequired": 0
 }
