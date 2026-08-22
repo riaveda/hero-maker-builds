@@ -1,7 +1,7 @@
 {
-  "versionCode": 68,
-  "versionName": "0.8.48",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.48/hero-maker-v0848.apk",
-  "notes": "스프라이트 아틀라스 — 낱장 2,324장을 묶는다",
+  "versionCode": 69,
+  "versionName": "0.8.49",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.49/hero-maker-v0849.apk",
+  "notes": "오크 — 고블린 다음 계단. 체력 3.3배 · 골드 7배 · 진영은 32칸 밖",
   "minRequired": 0
 }
