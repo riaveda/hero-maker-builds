@@ -1,7 +1,7 @@
 {
-  "versionCode": 99,
-  "versionName": "0.8.79",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.79/hero-maker-v0879.apk",
-  "notes": "게임 보는 동안 화면이 안 꺼진다",
+  "versionCode": 100,
+  "versionName": "0.8.80",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.80/hero-maker-v0880.apk",
+  "notes": "게임 보는 동안 화면이 안 꺼진다 (제자리 고침)",
   "minRequired": 0
 }
