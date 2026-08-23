@@ -1,7 +1,7 @@
 {
-  "versionCode": 98,
-  "versionName": "0.8.78",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.78/hero-maker-v0878.apk",
-  "notes": "새 주인공 — 남자·단발 검은 머리·평민옷·검",
+  "versionCode": 99,
+  "versionName": "0.8.79",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.79/hero-maker-v0879.apk",
+  "notes": "게임 보는 동안 화면이 안 꺼진다",
   "minRequired": 0
 }
