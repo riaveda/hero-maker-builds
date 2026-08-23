@@ -1,7 +1,7 @@
 {
-  "versionCode": 80,
-  "versionName": "0.8.60",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.60/hero-maker-v0860.apk",
-  "notes": "화면이 사냥터까지 따라간다 · 지금 무엇을 하려는지 한 줄로 보인다",
+  "versionCode": 83,
+  "versionName": "0.8.63",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.63/hero-maker-v0863.apk",
+  "notes": "사건 로그 — 화면 아래 세 줄",
   "minRequired": 0
 }
