@@ -1,7 +1,7 @@
 {
-  "versionCode": 83,
-  "versionName": "0.8.63",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.63/hero-maker-v0863.apk",
-  "notes": "사건 로그 — 화면 아래 세 줄",
+  "versionCode": 87,
+  "versionName": "0.8.67",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.67/hero-maker-v0867.apk",
+  "notes": "물약·무기·상점 · 넓힌 지도 · 리니지식 상태창",
   "minRequired": 0
 }
