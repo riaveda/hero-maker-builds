@@ -1,7 +1,7 @@
 {
-  "versionCode": 92,
-  "versionName": "0.8.72",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.72/hero-maker-v0872.apk",
-  "notes": "가로 고정 · 잔디 마을 · 마을 2배 · 큰 나무",
+  "versionCode": 93,
+  "versionName": "0.8.73",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.73/hero-maker-v0873.apk",
+  "notes": "캐릭터 1.5배 · 집 2배 · 잔디 마을 · 로그인 가로 대응",
   "minRequired": 0
 }
