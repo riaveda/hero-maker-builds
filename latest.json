@@ -1,7 +1,7 @@
 {
-  "versionCode": 76,
-  "versionName": "0.8.56",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.56/hero-maker-v0856.apk",
-  "notes": "쉴 때 서서 쉰다 · 사냥은 몬스터를 향한다 · 켜는 시간 22초 → 12초",
+  "versionCode": 77,
+  "versionName": "0.8.57",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.57/hero-maker-v0857.apk",
+  "notes": "사냥터를 뒤지며 「찾는다」고 말한다 · 야영지 여섯 · 몬스터 24 · 감지 범위 축소 · 때리는 쪽도 닿는 순간 멈춘다",
   "minRequired": 0
 }
