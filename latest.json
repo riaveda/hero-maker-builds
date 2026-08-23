@@ -1,7 +1,7 @@
 {
-  "versionCode": 94,
-  "versionName": "0.8.74",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.74/hero-maker-v0874.apk",
-  "notes": "집 1.5배 더",
+  "versionCode": 95,
+  "versionName": "0.8.75",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.75/hero-maker-v0875.apk",
+  "notes": "마을 가운데 우물 · 잘리던 스프라이트 고침",
   "minRequired": 0
 }
