@@ -1,7 +1,7 @@
 {
-  "versionCode": 79,
-  "versionName": "0.8.59",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.59/hero-maker-v0859.apk",
-  "notes": "말풍선에 껍데기와 꼬리를 그린다",
+  "versionCode": 80,
+  "versionName": "0.8.60",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.60/hero-maker-v0860.apk",
+  "notes": "화면이 사냥터까지 따라간다 · 지금 무엇을 하려는지 한 줄로 보인다",
   "minRequired": 0
 }
