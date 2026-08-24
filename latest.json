@@ -1,7 +1,7 @@
 {
-  "versionCode": 139,
-  "versionName": "0.12.1",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.12.1/hero-maker-v0121.apk",
-  "notes": "장비 레이어 합성기 — 무기 슬롯을 몸 위에 겹쳐 그린다(부위별의 첫 칸)",
+  "versionCode": 140,
+  "versionName": "0.12.2",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.12.2/hero-maker-v0122.apk",
+  "notes": "게으른 로딩 — 시작에 전부 안 열고 필요할 때 폴더만. 죽은 변종 삭제",
   "minRequired": 0
 }
