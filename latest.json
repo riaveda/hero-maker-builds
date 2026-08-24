@@ -1,7 +1,7 @@
 {
-  "versionCode": 115,
-  "versionName": "0.8.95",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.95/hero-maker-v0895.apk",
-  "notes": "캐릭터가 살아 움직이는 중 화면 · 백 키 종료 확인",
+  "versionCode": 116,
+  "versionName": "0.8.96",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.96/hero-maker-v0896.apk",
+  "notes": "섬과 지형 — 바다·해변·길·늪·고원(입구 하나)",
   "minRequired": 0
 }
