@@ -1,7 +1,7 @@
 {
-  "versionCode": 101,
-  "versionName": "0.8.81",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.81/hero-maker-v0881.apk",
-  "notes": "싸울 땐 멈춰서 싸운다 · 제자리 걸음 고침",
+  "versionCode": 102,
+  "versionName": "0.8.82",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.82/hero-maker-v0882.apk",
+  "notes": "걷는 속도 맞춤 · 지그재그 없앰 · 먼저 돌고 걷기",
   "minRequired": 0
 }
