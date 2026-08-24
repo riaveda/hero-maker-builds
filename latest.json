@@ -1,7 +1,7 @@
 {
-  "versionCode": 135,
-  "versionName": "0.11.0",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.11.0/hero-maker-v0110.apk",
-  "notes": "물약이냐 쉼이냐를 욕구가 가른다 + 상태창이 '왜'를 상시 표시",
+  "versionCode": 136,
+  "versionName": "0.11.1",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.11.1/hero-maker-v0111.apk",
+  "notes": "유령 몬스터 제거 — 죽은 몬스터가 화면에 남던 것",
   "minRequired": 0
 }
