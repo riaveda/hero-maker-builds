@@ -1,7 +1,7 @@
 {
-  "versionCode": 141,
-  "versionName": "0.12.3",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.12.3/hero-maker-v0123.apk",
-  "notes": "게으른 로딩 + 바탕 그림 미리 로드 — 시작 즉시, 세계 렌더",
+  "versionCode": 142,
+  "versionName": "0.12.4",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.12.4/hero-maker-v0124.apk",
+  "notes": "gear 스프라이트 아틀라스 — 무기 레이어도 텍스처로 묶음 (로딩 구조 마무리)",
   "minRequired": 0
 }
