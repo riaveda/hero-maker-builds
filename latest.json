@@ -1,7 +1,7 @@
 {
-  "versionCode": 103,
-  "versionName": "0.8.83",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.83/hero-maker-v0883.apk",
-  "notes": "이동선 점선 · 사냥터에 이름",
+  "versionCode": 105,
+  "versionName": "0.8.85",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.85/hero-maker-v0885.apk",
+  "notes": "이동선 — 흐르는 반투명 선 · 사냥터 이름",
   "minRequired": 0
 }
