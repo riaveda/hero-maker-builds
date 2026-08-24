@@ -1,7 +1,7 @@
 {
-  "versionCode": 117,
-  "versionName": "0.8.97",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.97/hero-maker-v0897.apk",
-  "notes": "섬 확대 · 고지대평원 한 곳(절벽·그림자) · 숲에 나무 383그루",
+  "versionCode": 118,
+  "versionName": "0.8.98",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.98/hero-maker-v0898.apk",
+  "notes": "고지대평원 색 정정 — 주변과 같은 초록, 밝기만 올림",
   "minRequired": 0
 }
