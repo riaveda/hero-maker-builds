@@ -1,7 +1,7 @@
 {
-  "versionCode": 138,
-  "versionName": "0.12.0",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.12.0/hero-maker-v0120.apk",
-  "notes": "장비가 외형으로 — 무기 사다리마다 주인공이 바뀐다(평민→레인저)",
+  "versionCode": 139,
+  "versionName": "0.12.1",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.12.1/hero-maker-v0121.apk",
+  "notes": "장비 레이어 합성기 — 무기 슬롯을 몸 위에 겹쳐 그린다(부위별의 첫 칸)",
   "minRequired": 0
 }
