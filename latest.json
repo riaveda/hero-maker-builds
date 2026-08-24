@@ -1,7 +1,7 @@
 {
-  "versionCode": 102,
-  "versionName": "0.8.82",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.82/hero-maker-v0882.apk",
-  "notes": "걷는 속도 맞춤 · 지그재그 없앰 · 먼저 돌고 걷기",
+  "versionCode": 103,
+  "versionName": "0.8.83",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.83/hero-maker-v0883.apk",
+  "notes": "이동선 점선 · 사냥터에 이름",
   "minRequired": 0
 }
