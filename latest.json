@@ -1,7 +1,7 @@
 {
-  "versionCode": 118,
-  "versionName": "0.8.98",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.98/hero-maker-v0898.apk",
-  "notes": "고지대평원 색 정정 — 주변과 같은 초록, 밝기만 올림",
+  "versionCode": 119,
+  "versionName": "0.8.99",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.99/hero-maker-v0899.apk",
+  "notes": "바깥 고리를 채웠다 — 못 4 · 바위 무더기 8 · 숲 4 · 옛 쉼터 3 · 나무 세 종류 추가",
   "minRequired": 0
 }
