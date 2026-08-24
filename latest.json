@@ -1,7 +1,7 @@
 {
-  "versionCode": 130,
-  "versionName": "0.10.0",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.10.0/hero-maker-v0100.apk",
-  "notes": "카메라 한계를 해안까지 — 평지 끝·바다가 보이게",
+  "versionCode": 134,
+  "versionName": "0.10.4",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.10.4/hero-maker-v0104.apk",
+  "notes": "순간이동 근본 해결 — 앱 중심 재생(서버는 결정·경로, 앱이 재생)",
   "minRequired": 0
 }
