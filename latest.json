@@ -1,7 +1,7 @@
 {
-  "versionCode": 106,
-  "versionName": "0.8.86",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.86/hero-maker-v0886.apk",
-  "notes": "배경으로 내려가면 자동 진행 중 · 백 키 종료 확인",
+  "versionCode": 115,
+  "versionName": "0.8.95",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.95/hero-maker-v0895.apk",
+  "notes": "캐릭터가 살아 움직이는 중 화면 · 백 키 종료 확인",
   "minRequired": 0
 }
