@@ -1,7 +1,7 @@
 {
-  "versionCode": 116,
-  "versionName": "0.8.96",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.96/hero-maker-v0896.apk",
-  "notes": "섬과 지형 — 바다·해변·길·늪·고원(입구 하나)",
+  "versionCode": 117,
+  "versionName": "0.8.97",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.8.97/hero-maker-v0897.apk",
+  "notes": "섬 확대 · 고지대평원 한 곳(절벽·그림자) · 숲에 나무 383그루",
   "minRequired": 0
 }
