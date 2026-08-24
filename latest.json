@@ -1,7 +1,7 @@
 {
-  "versionCode": 129,
-  "versionName": "0.9.9",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.9.9/hero-maker-v099.apk",
-  "notes": "이동=방향 구조적 해결(앱이 서버 경로를 따름) · 건물 잘림 · 소켓 중복 · 나무",
+  "versionCode": 130,
+  "versionName": "0.10.0",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.10.0/hero-maker-v0100.apk",
+  "notes": "카메라 한계를 해안까지 — 평지 끝·바다가 보이게",
   "minRequired": 0
 }
