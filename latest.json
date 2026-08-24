@@ -1,7 +1,7 @@
 {
-  "versionCode": 122,
-  "versionName": "0.9.2",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.9.2/hero-maker-v092.apk",
-  "notes": "나무를 기둥 긴 것으로 — 작은나무·소나무·통나무. 섬나무는 뺐다",
+  "versionCode": 129,
+  "versionName": "0.9.9",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.9.9/hero-maker-v099.apk",
+  "notes": "이동=방향 구조적 해결(앱이 서버 경로를 따름) · 건물 잘림 · 소켓 중복 · 나무",
   "minRequired": 0
 }
