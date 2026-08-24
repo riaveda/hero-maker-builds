@@ -1,7 +1,7 @@
 {
-  "versionCode": 136,
-  "versionName": "0.11.1",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.11.1/hero-maker-v0111.apk",
-  "notes": "유령 몬스터 제거 — 죽은 몬스터가 화면에 남던 것",
+  "versionCode": 137,
+  "versionName": "0.11.2",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.11.2/hero-maker-v0112.apk",
+  "notes": "바다·절벽에 갇힌 몬스터 5마리를 땅으로 + 유령 몬스터 제거",
   "minRequired": 0
 }
