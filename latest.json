@@ -1,7 +1,7 @@
 {
-  "versionCode": 121,
-  "versionName": "0.9.1",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.9.1/hero-maker-v091.apk",
-  "notes": "나무를 사진측량으로 갈았다 — 섬나무 둘·들나무·자카란다·고사리·쐐기풀·덩굴풀",
+  "versionCode": 122,
+  "versionName": "0.9.2",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.9.2/hero-maker-v092.apk",
+  "notes": "나무를 기둥 긴 것으로 — 작은나무·소나무·통나무. 섬나무는 뺐다",
   "minRequired": 0
 }
