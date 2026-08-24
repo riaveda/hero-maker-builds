@@ -1,7 +1,7 @@
 {
-  "versionCode": 120,
-  "versionName": "0.9.0",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.9.0/hero-maker-v090.apk",
-  "notes": "바깥 고리를 채웠다 — 못 4 · 바위 무더기 8 · 숲 4 · 옛 쉼터 3 · 나무 세 종류",
+  "versionCode": 121,
+  "versionName": "0.9.1",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.9.1/hero-maker-v091.apk",
+  "notes": "나무를 사진측량으로 갈았다 — 섬나무 둘·들나무·자카란다·고사리·쐐기풀·덩굴풀",
   "minRequired": 0
 }
