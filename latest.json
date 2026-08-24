@@ -1,7 +1,7 @@
 {
-  "versionCode": 140,
-  "versionName": "0.12.2",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.12.2/hero-maker-v0122.apk",
-  "notes": "게으른 로딩 — 시작에 전부 안 열고 필요할 때 폴더만. 죽은 변종 삭제",
+  "versionCode": 141,
+  "versionName": "0.12.3",
+  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.12.3/hero-maker-v0123.apk",
+  "notes": "게으른 로딩 + 바탕 그림 미리 로드 — 시작 즉시, 세계 렌더",
   "minRequired": 0
 }
