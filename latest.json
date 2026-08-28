@@ -1,7 +1,7 @@
 {
-  "versionCode": 142,
-  "versionName": "0.12.4",
-  "url": "https://github.com/riaveda/hero-maker-builds/releases/download/v0.12.4/hero-maker-v0124.apk",
-  "notes": "gear 스프라이트 아틀라스 — 무기 레이어도 텍스처로 묶음 (로딩 구조 마무리)",
+  "versionCode": 1,
+  "versionName": "0.0.1",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.1/seal-front-v001.apk",
+  "notes": "진영전 첫 빌드 — 3D 유닛·건물·지형 높이·손가락 조작·백 키",
   "minRequired": 0
 }
