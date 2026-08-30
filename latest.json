@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "0.0.8",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.8/seal-front-v008.apk",
-  "notes": "무기 각도를 재서 계산 · 흡혈귀 완드 + 주문 · 직업별 사거리(레인저 7) · 액자 초상 다시 구움",
+  "versionCode": 15,
+  "versionName": "0.0.9",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.9/seal-front-v009.apk",
+  "notes": "끝 화면(승리/패배) · 새 게임·이어서 하기 · 뒤로 키 메뉴 · 봉인이 땅을 정하는 새 규칙 · 적 봉인 6개를 다 깨야 왕궁이 열린다",
   "minRequired": 0
 }
