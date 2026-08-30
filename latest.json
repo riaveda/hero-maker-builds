@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "0.0.5",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.5/seal-front-v005.apk",
-  "notes": "화신 액자 색 · 화신 넷 · T자세 고침",
+  "versionCode": 10,
+  "versionName": "0.0.6",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.6/seal-front-v006.apk",
+  "notes": "화신·마왕영웅 모델 여덟 · 액자 전신 초상 · 길 따라 걷기",
   "minRequired": 0
 }
