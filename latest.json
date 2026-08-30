@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "0.0.7",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.7/seal-front-v007.apk",
-  "notes": "T자세 0 · 칼질과 활쏘기 · 날아가는 화살(닿아야 피가 닳는다) · 길목 병영 · 액자",
+  "versionCode": 12,
+  "versionName": "0.0.8",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.8/seal-front-v008.apk",
+  "notes": "무기 각도를 재서 계산 · 흡혈귀 완드 + 주문 · 직업별 사거리(레인저 7) · 액자 초상 다시 구움",
   "minRequired": 0
 }
