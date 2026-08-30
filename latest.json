@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "0.0.6",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.6/seal-front-v006.apk",
-  "notes": "화신·마왕영웅 모델 여덟 · 액자 전신 초상 · 길 따라 걷기",
+  "versionCode": 11,
+  "versionName": "0.0.7",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.7/seal-front-v007.apk",
+  "notes": "T자세 0 · 칼질과 활쏘기 · 날아가는 화살(닿아야 피가 닳는다) · 길목 병영 · 액자",
   "minRequired": 0
 }
