@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "0.0.11",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.11/seal-front-v0011.apk",
-  "notes": "봉인이 땅을 정한다 · 적 봉인 6개를 다 깨야 왕궁이 열린다 · 다 깬 레인의 병력은 남은 봉인으로 간다 · 끝 화면 · 새 게임/이어서 하기 · 뒤로 키 세 갈래",
+  "versionCode": 18,
+  "versionName": "0.0.12",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.12/seal-front-v0012.apk",
+  "notes": "마족 궁수(PvP 대칭) · 전사 방어 · 영웅만 물러서기 · 2D 죽은 길과 727MB 제거 · 새 균형",
   "minRequired": 0
 }
