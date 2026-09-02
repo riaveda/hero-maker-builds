@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "0.0.20",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.20/seal-front-v0020.apk",
-  "notes": "이웃 찾기를 공간 격자로(10.9% 빠름·결과 동일) · 끝난 판이면 「이어서 하기」를 안 보인다 · 그리는 설정을 앱이 스스로 말한다",
+  "versionCode": 27,
+  "versionName": "0.0.21",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.21/seal-front-v0021.apk",
+  "notes": "블룸이 실제로 그려지게 한다 — 카메라의 후처리가 꺼져 있었다",
   "minRequired": 0
 }
