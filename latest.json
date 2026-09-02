@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "0.0.18",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.18/seal-front-v0018.apk",
-  "notes": "앱이 안 뜨던 것을 고쳤다 — URP 후처리 에셋이 시작할 때 셰이더를 통째로 컴파일하며 멈췄다",
+  "versionCode": 25,
+  "versionName": "0.0.19",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.19/seal-front-v0019.apk",
+  "notes": "블룸을 되살렸다 — 볼륨 프로필을 19개에서 4개로 줄이고 후처리 변형 스트리핑을 켰다",
   "minRequired": 0
 }
