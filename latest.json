@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "0.0.14",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.14/seal-front-v0014.apk",
-  "notes": "격자를 걷어냈다 — 유닛이 내비메시 위를 부드럽게 걷는다(칸 단위로 안 튄다). 범위는 원이다.",
+  "versionCode": 21,
+  "versionName": "0.0.15",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.15/seal-front-v0015.apk",
+  "notes": "셰이더 다섯이 빌드에 안 실리던 것을 고쳤다(Ring·Smoke·Beam·Shell·Slash).",
   "minRequired": 0
 }
