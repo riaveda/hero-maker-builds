@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "0.0.16",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.16/seal-front-v0016.apk",
-  "notes": "가름 시험 — 9/1 에 더한 셰이더 여섯을 빼고 굽는다(원인 가르기)",
+  "versionCode": 23,
+  "versionName": "0.0.17",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.17/seal-front-v0017.apk",
+  "notes": "개발 빌드가 프로파일러를 기다려 멈추던 것을 막는다 — 빌드 설정을 코드에 못 박았다",
   "minRequired": 0
 }
