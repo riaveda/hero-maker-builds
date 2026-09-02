@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "0.0.19",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.19/seal-front-v0019.apk",
-  "notes": "블룸을 되살렸다 — 볼륨 프로필을 19개에서 4개로 줄이고 후처리 변형 스트리핑을 켰다",
+  "versionCode": 26,
+  "versionName": "0.0.20",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.20/seal-front-v0020.apk",
+  "notes": "이웃 찾기를 공간 격자로(10.9% 빠름·결과 동일) · 끝난 판이면 「이어서 하기」를 안 보인다 · 그리는 설정을 앱이 스스로 말한다",
   "minRequired": 0
 }
