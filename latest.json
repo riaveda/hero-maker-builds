@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "0.0.17",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.17/seal-front-v0017.apk",
-  "notes": "개발 빌드가 프로파일러를 기다려 멈추던 것을 막는다 — 빌드 설정을 코드에 못 박았다",
+  "versionCode": 24,
+  "versionName": "0.0.18",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.18/seal-front-v0018.apk",
+  "notes": "앱이 안 뜨던 것을 고쳤다 — URP 후처리 에셋이 시작할 때 셰이더를 통째로 컴파일하며 멈췄다",
   "minRequired": 0
 }
