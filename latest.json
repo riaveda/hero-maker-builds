@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "0.0.15",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.15/seal-front-v0015.apk",
-  "notes": "셰이더 다섯이 빌드에 안 실리던 것을 고쳤다(Ring·Smoke·Beam·Shell·Slash).",
+  "versionCode": 22,
+  "versionName": "0.0.16",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.16/seal-front-v0016.apk",
+  "notes": "가름 시험 — 9/1 에 더한 셰이더 여섯을 빼고 굽는다(원인 가르기)",
   "minRequired": 0
 }
