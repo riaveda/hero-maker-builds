@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "0.0.13",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.13/seal-front-v0013.apk",
-  "notes": "마족 경제(PvP 대칭) · 순간이동 제거 · 자원 예약 · 마족 일꾼과 도구 전환 · 맞으면 붉게 번쩍",
+  "versionCode": 20,
+  "versionName": "0.0.14",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.14/seal-front-v0014.apk",
+  "notes": "격자를 걷어냈다 — 유닛이 내비메시 위를 부드럽게 걷는다(칸 단위로 안 튄다). 범위는 원이다.",
   "minRequired": 0
 }
