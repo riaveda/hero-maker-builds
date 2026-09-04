@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "0.0.27",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.27/seal-front-v0027.apk",
-  "notes": "화신을 고른 뒤 지도를 탭하면 점지 · 누른 자리에 터치 리플 · 스킬 버튼과 쿨타임",
+  "versionCode": 36,
+  "versionName": "0.0.28",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.28/seal-front-v0028.apk",
+  "notes": "새 게임 실패 시 까닭을 보여 준다(만료·거절·못 닿음) · 시간초과 30초",
   "minRequired": 0
 }
