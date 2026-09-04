@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "0.0.34",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.34/seal-front-v0034.apk",
-  "notes": "맵 화면(축소 또는 우상단 버튼) · 맵에서만 점지 · 스킬 버튼이 안 보이던 것 고침",
+  "versionCode": 43,
+  "versionName": "0.0.35",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.35/seal-front-v0035.apk",
+  "notes": "빨간 오류(MeshCollider) 없앰 · 맵 화면 아이콘",
   "minRequired": 0
 }
