@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "0.0.29",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.29/seal-front-v0029.apk",
-  "notes": "점지가 무엇으로 읽혔는지 띄운다(사냥터 사냥 · 2번 길 밀기)",
+  "versionCode": 38,
+  "versionName": "0.0.30",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.30/seal-front-v0030.apk",
+  "notes": "칼질이 표적을 향한다(서버·앱 둘 다 고침) · 점지가 무엇으로 읽혔는지 표시",
   "minRequired": 0
 }
