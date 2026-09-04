@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "0.0.21",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.21/seal-front-v0021.apk",
-  "notes": "블룸이 실제로 그려지게 한다 — 카메라의 후처리가 꺼져 있었다",
+  "versionCode": 29,
+  "versionName": "0.0.22",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.22/seal-front-v0022.apk",
+  "notes": "화신이 사거리에 들면 바로 친다 · 맞으면 반격한다 · 마법사는 구슬을 쏜다 · 피흡은 빨 때만 난다 · 터진 스킬이 안 탄다 · 정글 페널티 없앰",
   "minRequired": 0
 }
