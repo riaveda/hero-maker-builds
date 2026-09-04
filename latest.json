@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "0.0.31",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.31/seal-front-v0031.apk",
-  "notes": "화신이 다가가다 죽던 것 — 받는 피해 30% 감소 · 칼질이 표적을 향한다",
+  "versionCode": 40,
+  "versionName": "0.0.32",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.32/seal-front-v0032.apk",
+  "notes": "어그로 반경을 모든 유닛에 통일(9칸) · 근접 사거리 2 · 카이팅 끔 · 칼질에 박자를 준다",
   "minRequired": 0
 }
