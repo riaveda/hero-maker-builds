@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "0.0.28",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.28/seal-front-v0028.apk",
-  "notes": "새 게임 실패 시 까닭을 보여 준다(만료·거절·못 닿음) · 시간초과 30초",
+  "versionCode": 37,
+  "versionName": "0.0.29",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.29/seal-front-v0029.apk",
+  "notes": "점지가 무엇으로 읽혔는지 띄운다(사냥터 사냥 · 2번 길 밀기)",
   "minRequired": 0
 }
