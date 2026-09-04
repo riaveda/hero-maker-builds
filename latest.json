@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "0.0.32",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.32/seal-front-v0032.apk",
-  "notes": "어그로 반경을 모든 유닛에 통일(9칸) · 근접 사거리 2 · 카이팅 끔 · 칼질에 박자를 준다",
+  "versionCode": 41,
+  "versionName": "0.0.33",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.33/seal-front-v0033.apk",
+  "notes": "새 게임이 415로 거절당하던 것 고침",
   "minRequired": 0
 }
