@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "0.0.30",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.30/seal-front-v0030.apk",
-  "notes": "칼질이 표적을 향한다(서버·앱 둘 다 고침) · 점지가 무엇으로 읽혔는지 표시",
+  "versionCode": 39,
+  "versionName": "0.0.31",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.31/seal-front-v0031.apk",
+  "notes": "화신이 다가가다 죽던 것 — 받는 피해 30% 감소 · 칼질이 표적을 향한다",
   "minRequired": 0
 }
