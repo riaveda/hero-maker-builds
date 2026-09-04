@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "0.0.25",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.25/seal-front-v0025.apk",
-  "notes": "마물이 제 구역을 어슬렁거린다 · 마물·보스 공격 동작 · 경제 계단을 30~45분 판에 맞춤 · 저울 재조정",
+  "versionCode": 34,
+  "versionName": "0.0.26",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.26/seal-front-v0026.apk",
+  "notes": "화신 선택 시 우하단 스킬 버튼(방사형 쿨타임·남은 초) · 탭=시전 길게=맡김전환 · 액자에 경험치바",
   "minRequired": 0
 }
