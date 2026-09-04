@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "0.0.35",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.35/seal-front-v0035.apk",
-  "notes": "빨간 오류(MeshCollider) 없앰 · 맵 화면 아이콘",
+  "versionCode": 44,
+  "versionName": "0.0.36",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.36/seal-front-v0036.apk",
+  "notes": "맵 화면 다듬기 — 기지·둥지 표시 · 크기와 색을 뜻에 맞춤",
   "minRequired": 0
 }
