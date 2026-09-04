@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "0.0.24",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.24/seal-front-v0024.apk",
-  "notes": "모든 유닛·몬스터 체력바(싸울 때) · 화신 경험치바와 뜬 숫자 · 한두 대에 안 녹게 체력 2.6배 · 근접은 빠르게 원거리는 느리게 · 한 판 30~45분",
+  "versionCode": 32,
+  "versionName": "0.0.25",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.25/seal-front-v0025.apk",
+  "notes": "마물이 제 구역을 어슬렁거린다 · 마물·보스 공격 동작 · 경제 계단을 30~45분 판에 맞춤 · 저울 재조정",
   "minRequired": 0
 }
