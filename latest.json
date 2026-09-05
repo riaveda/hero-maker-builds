@@ -1,7 +1,7 @@
 {
-  "versionCode": 46,
-  "versionName": "0.0.38",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.38/seal-front-v0038.apk",
-  "notes": "채집 곡괭이질 · 백성 배분 스테퍼(일꾼 −/＋) · 새 곡괭이(CC0) · 저울(마족 1.10 · 채집꾼 대칭) · 판 저장/복원 · 사람의 손 기록",
+  "versionCode": 47,
+  "versionName": "0.0.39",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.39/seal-front-v0039.apk",
+  "notes": "경제 사다리가 열렸다(기지 앞 채집터 · 대장간 3등급) · 저울 1.17 · 마왕성이 보인다(돌결 셰이더가 25배 어둡게 하던 것) · 열린 코어에 기운 · 설정 화면(품질) · 일꾼 곡괭이질",
   "minRequired": 0
 }
