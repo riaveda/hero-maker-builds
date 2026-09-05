@@ -1,7 +1,7 @@
 {
-  "versionCode": 48,
-  "versionName": "0.0.40",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.40/seal-front-v0040.apk",
-  "notes": "조작을 바꿨다(한 손=카메라 회전 · 두 손=맵 이동 · 떼면 즉시 멈춤) · 유닛 경량화로 프레임 60~83% 향상 · 제목·설정 화면 고침 · 이펙트 예산 실측",
+  "versionCode": 49,
+  "versionName": "0.0.41",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.41/seal-front-v0041.apk",
+  "notes": "조작을 바꿨다 — 한 손 드래그가 카메라, 두 손이 맵 이동. 손을 떼면 관성 없이 그 자리에 선다. 설정 화면(품질 −/＋)이 메뉴 위로 제대로 열린다. 미니맵을 상시 띄웠다. 마왕성이 검은 궤짝이던 것을 고치고 2층으로 쌓았다.",
   "minRequired": 0
 }
