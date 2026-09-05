@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "0.0.37",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.37/seal-front-v0037.apk",
-  "notes": "감사 후속 — 휘두름 빚 제거(실효 공격 속도 정상화) · 저울 재조정(마족 1.10) · 히트스톱 · 팔레트(마족 구슬 검붉음) · 한글 글꼴(Noto Sans KR) · 상시 미니맵 · 판 저장/복원(배포에도 판이 안 지워짐) · 프로토콜 sealedOn",
+  "versionCode": 46,
+  "versionName": "0.0.38",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.38/seal-front-v0038.apk",
+  "notes": "채집 곡괭이질 · 백성 배분 스테퍼(일꾼 −/＋) · 새 곡괭이(CC0) · 저울(마족 1.10 · 채집꾼 대칭) · 판 저장/복원 · 사람의 손 기록",
   "minRequired": 0
 }
